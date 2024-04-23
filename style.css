@@ -390,7 +390,7 @@ body #progress #progress-value {
   position: absolute;
   font-size: 1.875rem;
   z-index: 101;
-  color: #ffffff;
+  color: black;
   display: none;
 }
 
@@ -527,7 +527,7 @@ body #progress #progress-value {
   padding-top: 30px;
 }
 .sec-1 .container .container-1 .product-comp .box div img {
-  width: 167px;
+  width: 140px;
   height: 120px;
   cursor: pointer;
   margin-left: -20px;
@@ -807,10 +807,13 @@ body #progress #progress-value {
     flex-direction: column;
   }
   .sec-1 .container .container-1 .product-comp .box {
-    width: 315px;
+    width: 515px;
   }
   .sec-1 .container .container-1 .product-comp .box-a div {
     float: left;
+  }
+  .sec-1 .container .container-1 .product-comp .box-a div img {
+    width: 190px;
   }
   .sec-1 .container .container-1 .product-comp .box h3 {
     text-align: center;
@@ -975,10 +978,13 @@ body #progress #progress-value {
     flex-direction: column;
   }
   .sec-1 .container .container-1 .product-comp .box {
-    width: 315px;
+    width: 355px;
   }
   .sec-1 .container .container-1 .product-comp .box-a div {
     float: left;
+  }
+  .sec-1 .container .container-1 .product-comp .box-a div img {
+    width: 140px;
   }
   .sec-1 .container .container-1 .product-comp .box h3 {
     text-align: center;
@@ -1069,7 +1075,7 @@ body #progress #progress-value {
     margin-bottom: 5px;
   }
   #mobile .right .lang img {
-    width: 40px;
+    width: 30px;
     height: 30px;
     padding-top: 0;
   }
@@ -1132,6 +1138,9 @@ body #progress #progress-value {
   .para p {
     font-size: 1.4rem;
   }
+  .sec-1 .slide img {
+    width: 880px;
+  }
   .sec-1 .container {
     display: flex;
     flex-direction: column;
@@ -1146,8 +1155,8 @@ body #progress #progress-value {
     float: left;
   }
   .sec-1 .container .container-1 .product-comp .box-a div img {
-    width: 100%;
-    height: 120px;
+    width: 110px;
+    height: 110px;
     padding: 10px 20px;
   }
   .sec-1 .container .container-1 .product-comp .box h3 {
