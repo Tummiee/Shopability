@@ -1145,6 +1145,11 @@ body #progress #progress-value {
   .sec-1 .container .container-1 .product-comp .box-a div {
     float: left;
   }
+  .sec-1 .container .container-1 .product-comp .box-a div img {
+    width: 100%;
+    height: 120px;
+    padding: 10px 20px;
+  }
   .sec-1 .container .container-1 .product-comp .box h3 {
     text-align: center;
   }
