@@ -822,14 +822,13 @@ body #progress #progress-value {
     margin-top: 750px;
   }
   .footer .detail {
-    height: 1050px;
+    height: 450px;
     text-align: center;
     justify-content: center;
   }
   .footer .detail .table {
-    flex-direction: column;
     justify-content: space-around;
-    gap: 19px;
+    gap: 1px;
   }
 }
 @media (max-width: 768px) {

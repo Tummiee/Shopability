@@ -931,14 +931,14 @@ z-index: 100;
        .footer{
 
         .detail{
-            height: 1050px;
+            height: 450px;
             text-align: center;
             justify-content: center;
     
             .table{
-                flex-direction: column;
+                //flex-direction: column;
                 justify-content: space-around;
-                gap: 19px;
+                gap: 1px;
             }
         }
     }
